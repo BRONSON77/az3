@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby 2.6.3
+Rails 6.0.4
+Base de datos PostgreSQL
 
-Things you may want to cover:
+Abrimos una terminal en la carpeta del proyecto
+Tecleamos 'Rails db:create' para crear la base de datos
+Tecleamos 'Rails db:migrate' para crear las tablas en la base de datos
+Tecleamos 'Rails db:seed' para insertar datos en las tablas
+Tecleamos 'rails s' para iniciar el servidor
+Introducimos en la barra de un navegador la uri http://localhost:3000/api/releases.json
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# az3
